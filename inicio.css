@@ -1,0 +1,31 @@
+.cuerpo {
+    margin: 5%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  
+  .columna {
+    width: 100%;
+  }
+  
+  .card {
+    width: 100%;
+  }
+
+  .titulos {
+    text-align: center;
+  }
+
+  .cuerpo2 {
+    margin: 5%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    text-align: center;
+    align-items: center;
+  }
+  
+  .lista{
+    width: 49%;
+  }
